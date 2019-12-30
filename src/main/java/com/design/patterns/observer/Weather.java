@@ -1,4 +1,7 @@
-package com.design.patterns.observer.correct;
+package com.design.patterns.observer;
+
+import com.design.patterns.observer.base.Observable;
+import com.design.patterns.observer.base.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

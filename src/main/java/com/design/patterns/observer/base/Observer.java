@@ -1,4 +1,6 @@
-package com.design.patterns.observer.correct;
+package com.design.patterns.observer.base;
+
+import com.design.patterns.observer.WeatherData;
 
 /**
  * 观察者

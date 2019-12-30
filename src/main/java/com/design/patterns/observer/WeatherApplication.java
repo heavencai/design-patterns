@@ -1,8 +1,10 @@
-package com.design.patterns.observer.correct;
+package com.design.patterns.observer;
 
-import com.design.patterns.observer.correct.client.CurrentConditionsDisplay;
-import com.design.patterns.observer.correct.client.ForecastDisplay;
-import com.design.patterns.observer.correct.client.StatisticsDisplay;
+import com.design.patterns.observer.base.Observable;
+import com.design.patterns.observer.base.Observer;
+import com.design.patterns.observer.client.CurrentConditionsDisplay;
+import com.design.patterns.observer.client.ForecastDisplay;
+import com.design.patterns.observer.client.StatisticsDisplay;
 
 /**
  * 气象站

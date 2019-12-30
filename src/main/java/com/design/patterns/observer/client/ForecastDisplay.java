@@ -1,8 +1,8 @@
-package com.design.patterns.observer.correct.client;
+package com.design.patterns.observer.client;
 
-import com.design.patterns.observer.correct.DisplayElement;
-import com.design.patterns.observer.correct.Observer;
-import com.design.patterns.observer.correct.WeatherData;
+import com.design.patterns.observer.base.DisplayElement;
+import com.design.patterns.observer.base.Observer;
+import com.design.patterns.observer.WeatherData;
 
 /**
  * 天气预报

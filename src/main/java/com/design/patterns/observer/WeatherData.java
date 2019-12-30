@@ -1,4 +1,4 @@
-package com.design.patterns.observer.correct;
+package com.design.patterns.observer;
 
 /**
  * 天气数据
