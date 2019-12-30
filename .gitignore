@@ -1,0 +1,17 @@
+# Direct #
+.idea/
+classes/
+out/
+target/
+
+# File #
+*.class
+*.iml
+*.log
+*.jar
+*.DS_Store
+*.mdb
+
+# Package Files #
+*.war
+*.ear
