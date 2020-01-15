@@ -7,7 +7,7 @@ import com.design.patterns.factory.method.wuhan.WhPizzaStore;
 /**
  * 披萨应用
  */
-public class PizzaApplication {
+public class PizzaMethodApplication {
 
     public static void main(String[] args) {
         // 创建披萨店
