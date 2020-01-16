@@ -30,4 +30,10 @@ com.design.patterns.factory.method
 ### 定义
 抽象工厂模式提供一个接口，用于创建相关或依赖对象的家族，而不需要明确指定具体类。
 ### 包
-com.design.patterns.factory.abstract
+com.design.patterns.factory.abstracts
+
+## 6. 命令模式
+### 定义
+命令模式将"请求"封装成对象，以便使用不同的对象、队列或日志来参数化其他对象。命令模式也支持可撤销的操作。
+### 包
+com.design.patterns.command
